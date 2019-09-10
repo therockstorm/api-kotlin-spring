@@ -1,0 +1,8 @@
+*.class
+.DS_Store
+
+.gradle/
+.idea/
+.serverless/
+/bin/
+/build/
